@@ -2,7 +2,7 @@
 data resource untuk NLP bahasa indonesia
 
 
-# Dataset
+# Sentence Dataset
 1. [leipzig indonesian sentence collectoin](http://wortschatz.uni-leipzig.de/en/download) news articles, web articles, wikipedia data from 2008-2016
 1. [wn-msa.sourceforge.net](https://sourceforge.net/p/wn-msa/tab/HEAD/tree/trunk/) Wordnet Bahasa
 1. [Quran](http://tanzil.net/trans/id.indonesian) indonesian quran translation (id.muntakhab, id.jalalayn, id.indonesian)
@@ -12,7 +12,9 @@ data resource untuk NLP bahasa indonesia
 1. [Tempo online collection](http://ilps.science.uva.nl/ilps/wp-content/uploads/sites/6/files/bahasaindonesia/tempo.zip).
    This corpus contains [Tempo online](https://www.tempo.co/) news articles from 2000-2002. See
    [here](http://ilps.science.uva.nl/resources/bahasa/) for more info and citations.
-
+1. [corpus-frog-storytelling](https://github.com/davidmoeljadi/corpus-frog-storytelling) spoken text story telling
+1. [TED-Multilingual-Parallel-Corpus](https://raw.githubusercontent.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/master/Monolingual_data/Indonesian.txt) Monolingual_data/Indonesian
+1. [opus](http://opus.nlpl.eu/) Opus NLPL
 
 
 # Word reference (kemdikbud) [link](https://kbbi.kemdikbud.go.id/Beranda/Statistik)
@@ -58,6 +60,15 @@ data resource untuk NLP bahasa indonesia
 
 # Paralel corpus Eng-Ind
 1. [parallel-corpora-en-id](https://github.com/prasastoadi/parallel-corpora-en-id/)
+1. [Indonesian-English-Bilingual-Corpus](https://github.com/desmond86/Indonesian-English-Bilingual-Corpus)
+1. [TALPCo](https://github.com/matbahasa/TALPCo)
+1. [opus](http://opus.nlpl.eu/)
+1. [Multi-Wiki](https://github.com/nguyenlab/Multi-Wiki)
+
+# Morph
+1. [MALINDO_Morph](https://github.com/matbahasa/MALINDO_Morph)
+1. [morphind](http://septinalarasati.com/morphind/)
+1. [INDRAwdw](https://github.com/davidmoeljadi/INDRA)
 
 # Crawler Data
 1. [Crawler](https://github.com/harryandriyan/warta-scrap) Indonesian news portal
@@ -70,3 +81,5 @@ data resource untuk NLP bahasa indonesia
 # Non-Indonesian Resources
 1. [Reference N1](https://github.com/laugustyniak/awesome-sentiment-analysis) : laugustyniak/awesome-sentiment-analysis
 1. [Reference N2](https://github.com/stepthom/text_mining_resources) : stepthom/text_mining_resources
+1. [Reference N3](https://github.com/tensorflow/tensor2tensor) : tensor2tensor
+1. [Reference N4](https://github.com/AlexKuhnle/ShapeWorld) : generators for abstract
