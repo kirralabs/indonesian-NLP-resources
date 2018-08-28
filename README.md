@@ -16,7 +16,6 @@ data resource untuk NLP bahasa indonesia
 1. [TED-Multilingual-Parallel-Corpus](https://raw.githubusercontent.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus/master/Monolingual_data/Indonesian.txt) Monolingual_data/Indonesian
 1. [opus](http://opus.nlpl.eu/) Opus NLPL
 
-
 # Word reference (kemdikbud) [link](https://kbbi.kemdikbud.go.id/Beranda/Statistik)
 1. Entri Dasar : 48.748 (44,64 %)
 1. Kata Turunan : 26.312 (24,09 %)
@@ -57,8 +56,9 @@ data resource untuk NLP bahasa indonesia
 1. [POS-TAG](https://github.com/pebbie/pebahasa/blob/master/resource/Corpus.crp) : pebbie/pebahasa ~600 sentence
 1. [POS-TAG Parser](https://github.com/UniversalDependencies/UD_Indonesian-GSD) : UniversalDependencies/UD_Indonesian-GSD ~4477 sentence 
 1. [Sentimen](https://github.com/riochr17/Analisis-Sentimen-ID/blob/master/data/training_all_random.csv) 1506 sentences 
+1. [panl10n](http://www.panl10n.net/english/OutputsIndonesia2.htm) Pan Localization
 
-# Paralel corpus Eng-Ind
+# Parallel corpus Eng-Ind
 1. [parallel-corpora-en-id](https://github.com/prasastoadi/parallel-corpora-en-id/)
 1. [Indonesian-English-Bilingual-Corpus](https://github.com/desmond86/Indonesian-English-Bilingual-Corpus)
 1. [TALPCo](https://github.com/matbahasa/TALPCo)
@@ -68,7 +68,7 @@ data resource untuk NLP bahasa indonesia
 # Morph
 1. [MALINDO_Morph](https://github.com/matbahasa/MALINDO_Morph)
 1. [morphind](http://septinalarasati.com/morphind/)
-1. [INDRAwdw](https://github.com/davidmoeljadi/INDRA)
+1. [INDRA](https://github.com/davidmoeljadi/INDRA)
 
 # Crawler Data
 1. [Crawler](https://github.com/harryandriyan/warta-scrap) Indonesian news portal
