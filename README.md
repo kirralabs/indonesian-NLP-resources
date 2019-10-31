@@ -69,3 +69,6 @@ data resource untuk NLP bahasa indonesia
 
 # Crawler Data
 1. [Crawler](https://github.com/harryandriyan/warta-scrap) Indonesian news portal
+
+# Machine Translation
+1. [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/data_generators/translate_enid.py)
