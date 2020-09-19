@@ -1,5 +1,5 @@
 # indonesian-NLP-resources
-Data NLP for bahasa indonesia (last update 6 sep 2020)
+Data NLP for bahasa indonesia (last update 20 sep 2020)
 
 # Sentences Dataset
 1. [leipzig indonesian sentence collectoin](http://wortschatz.uni-leipzig.de/en/download) news articles, web articles, wikipedia data from 2008-2016
@@ -32,6 +32,8 @@ Data NLP for bahasa indonesia (last update 6 sep 2020)
 1. Contoh Per Makna : 0,228
 
 # Words dataset ([PUEBI word type](https://puebi.readthedocs.io/en/latest/kata/) )
+1. word class => [word noun](https://github.com/kirralabs/Indonesian-Word-Tagged/blob/master/resources/word-noun.txt)(18647), [word verb](https://github.com/kirralabs/Indonesian-Word-Tagged/blob/master/resources/word-verb.txt)(39070) = 57717 words
+1. word type => [rootword](https://github.com/kirralabs/Indonesian-Word-Tagged/blob/master/resources/word-root.txt)(41409), [derivative word](https://github.com/kirralabs/Indonesian-Word-Tagged/blob/master/resources/word-affix.txt)(24913), [compound words](), [Figure of speech](), [proverb](), [expression]() = 66322 words
 1. Word root => [source#1.1](https://github.com/sastrawi/sastrawi/blob/master/data/kata-dasar.txt) : sastrawi 29932 words ; [source#1.2](https://github.com/sastrawi/sastrawi/blob/master/data/kata-dasar.original.txt) : sastrawi 30342 words ; [source#2](https://github.com/agusmakmun/SentiStrengthID/blob/master/id_dict/rootword.txt) : SentiStrengthID 27979 words ; [source#3](https://github.com/prasastoadi/serangkai/blob/master/serangkai/kamus/data/kamus-kata-dasar.csv) : serangkai 30342 words
 1. [Word spaCy](https://github.com/explosion/spaCy/tree/master/spacy/lang/id) : id
 1. [word](https://github.com/prasastoadi/serangkai/tree/master/serangkai/kamus/data) : serangkai
